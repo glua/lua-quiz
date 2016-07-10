@@ -9,7 +9,9 @@
     "./definitions/index.d.ts"
   ],
   "dependencies": {
+    "object-assign": "registry:npm/object-assign#4.0.1+20160301180549",
     "react": "registry:npm/react#15.0.1+20160601175240",
+    "react-addons-update": "registry:npm/react-addons-update#0.14.0+20160324044346",
     "react-dom": "registry:npm/react-dom#15.0.1+20160705210405",
     "react-redux": "registry:npm/react-redux#4.4.0+20160614222153"
   }
