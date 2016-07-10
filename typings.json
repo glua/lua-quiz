@@ -1,0 +1,12 @@
+{
+  "name": "lua-quiz",
+  "globalDependencies": {
+
+  },
+  "files": [
+    "./definitions/index.d.ts"
+  ],
+  "dependencies": {
+
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "lua-quiz",
+  "version": "1.0.0",
+  "description": "Lua quiz for bragging rights",
+  "main": "./js/bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glua/lua-quiz.git"
+  },
+  "author": "glua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glua/lua-quiz/issues"
+  },
+  "devDependencies": {
+    "browserify": "latest",
+    "gulp-notify": "latest",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-typescript": "latest",
+    "gulp-util": "latest",
+    "merge2": "^1.0.2",
+    "tsify": "latest",
+    "vinyl-source-stream": "latest",
+    "watchify": "latest"
+  },
+  "homepage": "https://github.com/glua/lua-quiz#readme"
+}
