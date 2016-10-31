@@ -59,7 +59,7 @@ window.QuestionList = [
             "A string",
             "Nothing"
         ],
-        correctFeedback: "You now understand the deepest thruth that lies in lua!",
+        correctFeedback: "You now understand the deepest truth that lies within lua!",
         wrongFeedback: "John Lua is not amused"
     }
 ];
